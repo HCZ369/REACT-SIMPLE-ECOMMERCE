@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Monitor",
+		"price": "100",
+		"discount": "90",
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Teclado",
+		"price": "90",
+		"discount": "65",
+		"url": "https://picsum.photos/170"
+	},
+	{
+		"name": "Mouse",
+		"price": "100",
+		"discount": "35",
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Parlantes",
+		"price": "100",
+		"discount": "30",
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Proyector",
+		"price": "100",
+		"discount": "30",
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "producto",
+		"price": "100",
+		"discount": "30",
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "producto",
+		"price": "100",
+		"discount": "20",
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "producto",
+		"price": "100",
+		"discount": "10",
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "producto",
+		"price": "100",
+		"discount": "50",
+		"url": "https://picsum.photos/180"
+	}
+]
